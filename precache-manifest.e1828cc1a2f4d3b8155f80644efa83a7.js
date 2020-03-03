@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec210127f1c8b0b8ff9961e04cdb68fb",
+    "revision": "025d29e2a726dd45f9fa8e4fa2102310",
     "url": "/freezbtc/index.html"
   },
   {
-    "revision": "8c02ae4a42fca2f6bfb4",
+    "revision": "6ecb9a98fab6cb47bd0f",
     "url": "/freezbtc/static/css/main.7a17a0ab.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/freezbtc/static/js/2.8bed5939.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c02ae4a42fca2f6bfb4",
-    "url": "/freezbtc/static/js/main.4c797bce.chunk.js"
+    "revision": "6ecb9a98fab6cb47bd0f",
+    "url": "/freezbtc/static/js/main.e27bf090.chunk.js"
   },
   {
     "revision": "7a591f230efc39fb7a16",
