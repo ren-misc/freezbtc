@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/freezbtc/precache-manifest.40e7a6ee80eb69b770d3a2d39936e87f.js"
+  "/freezbtc/precache-manifest.4499f3fdfe0646ecab1c50834963f02b.js"
 );
 
 self.addEventListener('message', (event) => {
